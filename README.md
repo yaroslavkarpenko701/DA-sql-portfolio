@@ -6,7 +6,7 @@ Welcome to my portfolio! Here you will find practical SQL queries and scripts de
 
 ## Projects Overview
 
-### 1. Emails Sent by Month
+### 1. [Emails Sent by Month](./Emails%20Sent%20by%20Month/)
 * **Description:** Calculates the percentage of emails received by each account out of the total monthly volume, and determines the first and last email dispatch dates per client.
 * **Key Skills:** Window functions (`OVER (PARTITION BY)`), date transformations (`DATE_TRUNC`, `DATE_ADD`, `INTERVAL`), subqueries, aggregation (`COUNT`, `MIN`, `MAX`).
 
